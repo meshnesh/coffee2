@@ -1,7 +1,23 @@
+.dropdown p {
+    font-size: 40px ;
+    color: aliceblue ;
+}
+.dropdown-content{
+    display: none;
+    color: antiquewhite;
+    padding: 16px ;
+    border: none ;
+    cursor: pointer ;
+}
+.dropdown {
+    position: relative ;
+    display: inline-block ;
+}
 ul {
     list-style: none ;
     
 }
+
 .center-div-txt {
 margin-left: auto;
 margin-right: auto;
