@@ -7,23 +7,27 @@ margin-left: auto;
 margin-right: auto;
 width: 250px;
 text-align: center;
+    position: fixed;
 }
 .center-div {
 margin-left: auto;
 margin-right: auto;
 width: 250px;
+    position: fixed;
 }
 .floatleft-div {
 float: left;
 width: 50%;
     text-align: center;
      overflow: hidden;
+    position: fixed;
 }
 .floatright-div {
 float: right;
 width: 50%;
     text-align: center;
      overflow: hidden;
+    position: fixed;
 }
 #page{height: 100%;}
 .cb-slideshow,
