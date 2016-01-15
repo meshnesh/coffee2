@@ -8,6 +8,7 @@ margin-right: auto;
 width: 250px;
 text-align: center;
     position: relative;
+    color: aqua;
 }
 .center-div {
 margin-left: auto;
@@ -20,6 +21,7 @@ width: 50%;
     text-align: center;
      overflow: hidden;
     position: relative;
+    color: aqua
 }
 .floatright-div {
 float: right;
@@ -27,6 +29,7 @@ width: 50%;
     text-align: center;
      overflow: hidden;
     position: relative;
+    color: aqua
 }
 #page{height: 100%;}
 .cb-slideshow,
