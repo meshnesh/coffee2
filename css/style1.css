@@ -1,3 +1,12 @@
+#header{
+    background-color: beige;
+    color: crimson;
+    text-align: center;
+    width: 50%;
+    position: relative;
+    display: inline-block;
+    margin-left: 25%;
+}
 .dropbtn {
     background-color: #4CAF50;
     color: white;
